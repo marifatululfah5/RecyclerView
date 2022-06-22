@@ -8,9 +8,9 @@ Source code program
 ![image 1](screenshot/ss1.PNG)
 
 hasil setelah di running:
-![image 2](screenshot/ss2.PNG)
-![image 3](screenshot/ss3.PNG)
-![image 4](screenshot/ss4.PNG)
-![image 5](screenshot/ss5.PNG)
-![image 6](screenshot/ss6.PNG)
-![image 7](screenshot/ss7.PNG)
+![image 2](screenshot/ss2.jpeg)
+![image 3](screenshot/ss3.jpeg)
+![image 4](screenshot/ss4.jpeg)
+![image 5](screenshot/ss5.jpeg)
+![image 6](screenshot/ss6.jpeg)
+![image 7](screenshot/ss7.jpeg)
